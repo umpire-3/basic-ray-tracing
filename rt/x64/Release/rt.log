@@ -1,0 +1,9 @@
+﻿  rt.cpp
+  rt_structs.cpp
+  VolumeTree.cpp
+  Generating code
+  506 of 515 functions (98.3%) were compiled, the rest were copied from previous compilation.
+    40 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  rt.vcxproj -> C:\Users\Umpire\Desktop\basic-ray-tracing\x64\Release\rt.exe
